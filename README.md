@@ -9,6 +9,12 @@ Main challenges for current methods consists of
 - Occlusion of the scene by an object or person
 - Strong viewpoint difference
 
+Some benchmark
+- [LONG-TERM VISUAL LOCALIZATION](https://www.visuallocalization.net/)
+
+Some tutorial
+- [ICCV 2021 Large-Scale Visual Localization](https://sites.google.com/view/lsvpr2021/home)
+
 ## Table of Contents
 
 - [Learning-based Approaches](#learning-based-approaches)

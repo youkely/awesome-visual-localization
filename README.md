@@ -9,13 +9,13 @@ Main challenges for current methods consists of
 - Occlusion of the scene by an object or person
 - Strong viewpoint difference
 
-Some benchmark
+## Some benchmark
 - [LONG-TERM VISUAL LOCALIZATION](https://www.visuallocalization.net/)
 
-Some tutorial
+## Some tutorial
 - [ICCV 2021 Large-Scale Visual Localization](https://sites.google.com/view/lsvpr2021/home)
 
-Category：
+## Category：(image from naverlabs)
 ![image](https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png)
 |               Approach               | 3D map |                              Pros                              |                                                          Cons                                                         |
 |:------------------------------------:|:------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|

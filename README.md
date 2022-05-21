@@ -29,8 +29,9 @@ This document might has some errors or missing parts. Feel free to make suggesti
 ## Tutorial
 - [ICCV 2021 Large-Scale Visual Localization](https://sites.google.com/view/lsvpr2021/home)
 
-## Category：(image from naverlabs)
+## Category
 ![image](https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png)
+Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 |               Approach               | 3D map |                              Pros                              |                                                          Cons                                                         |
 |:------------------------------------:|:------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
 | Structure-based                      | yes    | Perform very well in most scenarios                            | Challenging in large environments in terms of processing time and memory consumption                                  |

@@ -12,7 +12,10 @@ This document might has some errors or missing parts. Feel free to make suggesti
 - [Category](#category)
 - [Localization Component](#localization-component)
     - [Visual Feature](#visual-feature)
+    - [Image Retrieval](#Image Retrieval)
     - [Feature Match](#feature-match)
+    - [Pose Computation](#Pose Computation)
+    - [Structure From Motion](#Structure From Motion)
 - [Localization System](#localization-system)
 
 
@@ -62,7 +65,9 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 ### Image Retrieval
 - [2019 ICCV] Learning With Average Precision: Training Image Retrieval With a Listwise Loss [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Revaud_Learning_With_Average_Precision_Training_Image_Retrieval_With_a_Listwise_ICCV_2019_paper.pdf)
 - [2019 TPAMI] Fine-Tuning CNN Image Retrieval with No Human Annotation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8382272&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgzODIyNzI/Y2FzYV90b2tlbj1zMnlndGdkLUpYMEFBQUFBOmgtMm9Kb1NLT1dQZmZoMUlwRFJwTnVBbnVsUGhYLTRoNHVpNnlVMWY5VmZPOXgzMU05M1p6Y0pIcUo4aVNjVFJYcmlTREQybkkwT0NJTlE=)
-- 
+- [2017 IJCV] End-to-End Learning of Deep Visual Representations for Image Retrieval [[paper]](https://link.springer.com/content/pdf/10.1007/s11263-017-1016-8.pdf)
+- [2016 CVPR] NetVLAD: CNN Architecture for Weakly Supervised Place Recognition [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
+- [2015 CVPR] 24/7 Place Recognition by View Synthesis [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Torii_247_Place_Recognition_2015_CVPR_paper.pdf)
 
 ### Feature Match
 - [2020 CVPR] SuperGlue: Learning Feature Matching With Graph Neural Networks [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
@@ -72,6 +77,13 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2014 3DV] Matching Features Correctly through Semantic Understanding [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7035860)
 - [2008 TPAMI] Optimal Randomized RANSAC [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4359381)
 - [1981 CACM] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography [[paper]](https://dl.acm.org/doi/pdf/10.1145/358669.358692)
+
+### Pose Computation
+- [2011 CVPR] A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=5995464&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzU5OTU0NjQ=)
+
+### Structure From Motion
+- [2016 CVPR] Structure-from-Motion Revisited [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7780814&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzc3ODA4MTQ=)
+- [2013 ICCV] Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=6751515&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzY3NTE1MTU=)
 
 ## Localization System
 

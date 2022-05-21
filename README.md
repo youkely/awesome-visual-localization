@@ -36,6 +36,17 @@ This document might has some errors or missing parts. Feel free to make suggesti
 Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 
 
+
+
+
+
+
+
+
+
+
+
+
 |               Approach               | 3D map |                              Pros                              |                                                          Cons                                                         |
 |:------------------------------------:|:------:|:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
 | Structure-based                      | yes    | Perform very well in most scenarios                            | Challenging in large environments in terms of processing time and memory consumption                                  |

@@ -59,7 +59,19 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2017 ICRA] Semantics-aware visual localization under challenging perceptual conditions [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7989305&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5qcC8=)
 - [2004 IJCV] Distinctive Image Features from Scale-Invariant Keypoints [[paper]](https://link.springer.com/content/pdf/10.1023/B:VISI.0000029664.99615.94.pdf)
 
+### Image Retrieval
+- [2019 ICCV] Learning With Average Precision: Training Image Retrieval With a Listwise Loss [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Revaud_Learning_With_Average_Precision_Training_Image_Retrieval_With_a_Listwise_ICCV_2019_paper.pdf)
+- [2019 TPAMI] Fine-Tuning CNN Image Retrieval with No Human Annotation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8382272&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgzODIyNzI/Y2FzYV90b2tlbj1zMnlndGdkLUpYMEFBQUFBOmgtMm9Kb1NLT1dQZmZoMUlwRFJwTnVBbnVsUGhYLTRoNHVpNnlVMWY5VmZPOXgzMU05M1p6Y0pIcUo4aVNjVFJYcmlTREQybkkwT0NJTlE=)
+- 
+
 ### Feature Match
+- [2020 CVPR] SuperGlue: Learning Feature Matching With Graph Neural Networks [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
+- [2018 ECCV] Semantic Match Consistency for Long-Term Visual Localization [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
+- [2017 TPAMI] Efficient amp; Effective Prioritized Matching for Large-Scale Image-Based Localization [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7572201&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5qcC8=)
+- [2017 ICCV] Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8237522&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzgyMzc1MjI=)
+- [2014 3DV] Matching Features Correctly through Semantic Understanding [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7035860)
+- [2008 TPAMI] Optimal Randomized RANSAC [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4359381)
+- [1981 CACM] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography [[paper]](https://dl.acm.org/doi/pdf/10.1145/358669.358692)
 
 ## Localization System
 

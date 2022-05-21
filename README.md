@@ -41,8 +41,8 @@ This document might has some errors or missing parts. Feel free to make suggesti
 
 
 <br/><br/><br/>
-<img src="https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png" width="1200px">
-<font size="2">Image from https://europe.naverlabs.com/blog/methods-for-visual-localization</font>
+<img src="https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png" width="800px">
+Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 
 
 

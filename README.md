@@ -2,7 +2,7 @@
 
 A literature review on the research of visual localization inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization). Visual localization is the task to estimate the 6 dof pose of an image given a representation of the world created using a set of reference images. The representation can be a 3D reconstruction, a set of images with poses tagged or a deep neural network.
 
-This document might has some errors or missing parts. Feel free to make suggestions or pull request. All contributions are well appreciated.
+This document might have some errors or missing parts. Feel free to make suggestions or pull request. All contributions are well appreciated.
 
 ## Table of Contents
 

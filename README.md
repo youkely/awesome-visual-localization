@@ -12,10 +12,10 @@ This document might has some errors or missing parts. Feel free to make suggesti
 - [Category](#category)
 - [Localization Component](#localization-component)
     - [Visual Feature](#visual-feature)
-    - [Image Retrieval](#Image Retrieval)
+    - [Image Retrieval](#image-retrieval)
     - [Feature Match](#feature-match)
-    - [Pose Computation](#Pose Computation)
-    - [Structure From Motion](#Structure From Motion)
+    - [Pose Computation](#pose-computation)
+    - [Structure From Motion](#structure-from-motion)
 - [Localization System](#localization-system)
 
 

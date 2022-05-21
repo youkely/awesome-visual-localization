@@ -8,6 +8,7 @@ This document might has some errors or missing parts. Feel free to make suggesti
 
 - [Main challenges](#main-challenges)
 - [Benchmark](#benchmark)
+- [Challenges](#challenges)
 - [Tutorial](#tutorial)
 - [Category](#category)
 - [Localization Component](#localization-component)
@@ -34,6 +35,13 @@ This document might has some errors or missing parts. Feel free to make suggesti
 
 ## Benchmark
 - [LONG-TERM VISUAL LOCALIZATION](https://www.visuallocalization.net/)
+
+## Challenges
+- [2021 ICCV] [Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2021/home)
+- [2021 ICCV] [Map-Based Localization for Autonomous Driving](https://sites.google.com/view/mlad-iccv2021)
+- [2020 ECCV] [Long-Term Visual Localization under Changing Conditions](https://www.visuallocalization.net/workshop/eccv/2020/)
+- [2020 ECCV] [Map-Based Localization for Autonomous Driving](https://sites.google.com/view/mlad-eccv2020/home)
+- [2019 CVPR] [Long-Term Visual Localization under Changing Conditions](https://sites.google.com/view/ltvl2019/home)
 
 ## Tutorial
 - [ICCV 2021 Large-Scale Visual Localization](https://sites.google.com/view/lsvpr2021/home)

@@ -38,7 +38,8 @@ This document might has some errors or missing parts. Feel free to make suggesti
 | Absolute pose regression             | no     | Fast pose approximation, can be trained for certain challenges | Low accuracy                                                                                                          |
 | Pose interpolation                   | no     | Fast and lightweight                                           | Quality relies heavily on image retrieval and only provides a rough pose                                              |
 | Relative pose estimation             | no     | Fast and lightweight                                           | Quality relies heavily on image retrieval and, e.g., local feature matches or a DNN used for relative pose estimation |
-<br/><br/>
+
+
 ![image](https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png)
 Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 

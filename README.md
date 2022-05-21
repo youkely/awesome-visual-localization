@@ -40,6 +40,8 @@ This document might has some errors or missing parts. Feel free to make suggesti
 | Relative pose estimation             | no     | Fast and lightweight                                           | Quality relies heavily on image retrieval and, e.g., local feature matches or a DNN used for relative pose estimation |
 
 
+
+<br/><br/><br/>
 ![image](https://europe.naverlabs.com/wp-content/uploads/2021/03/visual_localization_methods.png)
 Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 

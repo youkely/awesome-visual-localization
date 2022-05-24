@@ -86,6 +86,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2015 CVPR] 24/7 Place Recognition by View Synthesis [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Torii_247_Place_Recognition_2015_CVPR_paper.pdf)
 
 ### Feature Match
+- [2020 ECCV] S2DNet : Learning Image Features for Accurate Sparse-to-Dense Matching [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480630.pdf) [[code]](https://github.com/germain-hug/S2DNet-Minimal)
 - [2020 CVPR] SuperGlue: Learning Feature Matching With Graph Neural Networks [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
 - [2018 ECCV] Semantic Match Consistency for Long-Term Visual Localization [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
 - [2017 TPAMI] Efficient amp; Effective Prioritized Matching for Large-Scale Image-Based Localization [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7572201&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5qcC8=)

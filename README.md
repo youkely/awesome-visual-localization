@@ -1,6 +1,6 @@
-# Awesome Visual Localization
+# Awesome Visual Localization: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A literature review on the research of visual localization inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization). Visual localization is the task to estimate the 6 dof pose of an image given a representation of the world created using a set of reference images. The representation can be a 3D reconstruction, a set of images with poses tagged or a deep neural network.
+A curated list of awesome visual localization resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-visual-localization](https://github.com/siyandong/awesome-visual-localization). Visual localization is the task to estimate the 6 dof pose of an image given a representation of the world created using a set of reference images. The representation can be a 3D reconstruction, a set of images with poses tagged or a deep neural network.
 
 This document might have some errors or missing parts. Feel free to make suggestions or pull request. All contributions are well appreciated.
 
@@ -125,6 +125,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2018 ICRA] Deep Auxiliary Learning for Visual Localization and Odometry [[paper]](https://arxiv.org/pdf/1803.03642.pdf)
 - [2018 RA-L] VLocNet++: Deep Multitask Learning for Semantic Visual Localization and Odometry [[paper]](https://arxiv.org/pdf/1804.08366.pdf)
 - [2018 CVPR] Geometry-Aware Learning of Maps for Camera Localization [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.pdf) [[code]](https://github.com/NVlabs/geomapnet)
+- [2017 CVPR] Image-based localization using LSTMs for structured feature correlation [paper]
 - [2017 CVPR] Geometric loss functions for camera pose regression with deep learning [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.pdf)
 - [2015 ICCV] PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization [[paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.pdf)
 

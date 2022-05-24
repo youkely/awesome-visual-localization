@@ -68,6 +68,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 ## Localization Component
 
 ### Visual Feature
+- [2020 CVPR] ASLFeat: Learning Local Features of Accurate Shape and Localization [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_ASLFeat_Learning_Local_Features_of_Accurate_Shape_and_Localization_CVPR_2020_paper.pdf)
 - [2020 ECCV] Learning Feature Descriptors Using Camera Pose Supervision [[paper]](https://arxiv.org/pdf/2004.13324.pdf?ref=https://githubhelp.com)
 - [2019 NeurIPS] R2D2: Reliable and Repeatable Detector and Descriptor [[paper]](https://proceedings.neurips.cc/paper/2019/file/3198dfd0aef271d22f7bcddd6f12f5cb-Paper.pdf)
 - [2019 CVPR] D2-Net: A Trainable CNN for Joint Description and Detection of Local Features [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)

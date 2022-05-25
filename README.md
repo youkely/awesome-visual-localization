@@ -141,5 +141,6 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 
 ### Relative Pose Estimation
 - [2020 ICRA] To Learn or Not to Learn: Visual Localization from Essential Matrices [[paper]](https://arxiv.org/pdf/1908.01293.pdf)
+- [2019 ICCV] CamNet: Coarse-to-Fine Retrieval for Camera Re-Localization [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ding_CamNet_Coarse-to-Fine_Retrieval_for_Camera_Re-Localization_ICCV_2019_paper.pdf)
 - [2006 3DPVT] Image Based Localization in Urban Environments [[paper]](https://web.archive.org/web/20130512063647id_/http://www.cs.gmu.edu:80/~wzhang2/publication/Localization1.pdf)
 

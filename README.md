@@ -98,7 +98,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [1981 CACM] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography [[paper]](https://dl.acm.org/doi/pdf/10.1145/358669.358692)
 
 ### Pose Computation
-- [2020 ECCV] Solving the Blind Perspective-n-Point Problem End-To-End With Robust Differentiable Geometric Optimization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470239.pdf)
+- [2020 ECCV] Solving the Blind Perspective-n-Point Problem End-To-End With Robust Differentiable Geometric Optimization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470239.pdf) [[code]](https://github.com/dylan-campbell/bpnpnet)
 - [2011 CVPR] A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=5995464&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzU5OTU0NjQ=)
 
 ### Structure From Motion

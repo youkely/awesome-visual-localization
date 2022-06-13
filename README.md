@@ -81,6 +81,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2004 IJCV] Distinctive Image Features from Scale-Invariant Keypoints [[paper]](https://link.springer.com/content/pdf/10.1023/B:VISI.0000029664.99615.94.pdf)
 
 ### Image Retrieval
+- [2022 arXiv] Investigating the Role of Image Retrieval for Visual Localization -- An exhaustive benchmark [[paper]](https://arxiv.org/pdf/2205.15761)
 - [2019 ICCV] Learning With Average Precision: Training Image Retrieval With a Listwise Loss [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Revaud_Learning_With_Average_Precision_Training_Image_Retrieval_With_a_Listwise_ICCV_2019_paper.pdf)
 - [2019 TPAMI] Fine-Tuning CNN Image Retrieval with No Human Annotation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8382272&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2Fic3RyYWN0L2RvY3VtZW50LzgzODIyNzI/Y2FzYV90b2tlbj1zMnlndGdkLUpYMEFBQUFBOmgtMm9Kb1NLT1dQZmZoMUlwRFJwTnVBbnVsUGhYLTRoNHVpNnlVMWY5VmZPOXgzMU05M1p6Y0pIcUo4aVNjVFJYcmlTREQybkkwT0NJTlE=)
 - [2017 IJCV] End-to-End Learning of Deep Visual Representations for Image Retrieval [[paper]](https://link.springer.com/content/pdf/10.1007/s11263-017-1016-8.pdf)

@@ -90,6 +90,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 
 ### Feature Match
 - [2022 arXiv] Is Geometry Enough for Matching in Visual Localization? [[paper]](https://arxiv.org/pdf/2203.12979)
+- [2021 CVPR] LoFTR: Detector-Free Local Feature Matching with Transformers [[paper]](https://arxiv.org/pdf/2104.00680.pdf) [[code]](https://github.com/zju3dv/LoFTR) [[project]](https://zju3dv.github.io/loftr/)
 - [2020 ECCV] S2DNet : Learning Image Features for Accurate Sparse-to-Dense Matching [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480630.pdf) [[code]](https://github.com/germain-hug/S2DNet-Minimal)
 - [2020 CVPR] SuperGlue: Learning Feature Matching With Graph Neural Networks [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
 - [2018 ECCV] Semantic Match Consistency for Long-Term Visual Localization [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)

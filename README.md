@@ -93,6 +93,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [2021 CVPR] LoFTR: Detector-Free Local Feature Matching with Transformers [[paper]](https://arxiv.org/pdf/2104.00680.pdf) [[code]](https://github.com/zju3dv/LoFTR) [[project]](https://zju3dv.github.io/loftr/)
 - [2020 ECCV] S2DNet : Learning Image Features for Accurate Sparse-to-Dense Matching [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480630.pdf) [[code]](https://github.com/germain-hug/S2DNet-Minimal)
 - [2020 CVPR] SuperGlue: Learning Feature Matching With Graph Neural Networks [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)
+- [2019 3DV] Sparse-to-Dense Hypercolumn Matching for Long-Term Visual Localization [[paper]](https://arxiv.org/pdf/1907.03965) [[code]](https://github.com/germain-hug/S2DHM)
 - [2018 ECCV] Semantic Match Consistency for Long-Term Visual Localization [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.pdf)
 - [2017 TPAMI] Efficient amp; Effective Prioritized Matching for Large-Scale Image-Based Localization [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=7572201&ref=aHR0cHM6Ly9zY2hvbGFyLmdvb2dsZS5jby5qcC8=)
 - [2017 ICCV] Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8237522&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzgyMzc1MjI=)
@@ -101,6 +102,7 @@ Image from https://europe.naverlabs.com/blog/methods-for-visual-localization/
 - [1981 CACM] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography [[paper]](https://dl.acm.org/doi/pdf/10.1145/358669.358692)
 
 ### Pose Computation
+- [2022 CVPR] The Probabilistic Normal Epipolar Constraint for Frame-To-Frame Rotation Optimization under Uncertain Feature Positions [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Muhle_The_Probabilistic_Normal_Epipolar_Constraint_for_Frame-to-Frame_Rotation_Optimization_Under_CVPR_2022_paper.pdf)
 - [2020 ECCV] Solving the Blind Perspective-n-Point Problem End-To-End With Robust Differentiable Geometric Optimization [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470239.pdf) [[code]](https://github.com/dylan-campbell/bpnpnet)
 - [2011 CVPR] A novel parametrization of the perspective-three-point problem for a direct computation of absolute camera position and orientation [[paper]](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=5995464&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzU5OTU0NjQ=)
 
